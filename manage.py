@@ -3,6 +3,7 @@
 import os
 import sys
 
+#To run the site pyhton3 manage.py runserver
 
 def main():
     """Run administrative tasks."""
